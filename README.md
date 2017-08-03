@@ -1,2 +1,7 @@
 # Wikipedia-article-grabber
-One page application that grabs articles directly from WIkipedia with their API service
+
+## How to use the page? 
+- You can access it directly by opening the index.html file after downloading the files 
+- Or online at: 
+- Start by clicking inside the search field and confirm the search with the "Enter" key
+- A number of maximum ten articles will pop under the search field with articles related to the keywords in the search
